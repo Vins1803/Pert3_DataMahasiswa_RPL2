@@ -1,0 +1,5 @@
+com\mycompany\act1_alviin\controller\Mahasiswa_controller.class
+com\mycompany\act1_alviin\view\MahasiswaView.class
+com\mycompany\act1_alviin\model\ModelMahasiswa.class
+com\mycompany\act1_alviin\Act1_alviin.class
+com\mycompany\act1_alviin\model\MahasiswaDAO.class
